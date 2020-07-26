@@ -1,0 +1,35 @@
+# Hello from simple example
+
+--------------------------------------------------------------------------------
+
+## This is a smaller header
+
+Here is a paragraph with some content in it. Even if
+=> https://en.wikipedia.org/wiki/Hyperlink links
+are in a paragraph they should be on a new line in gemini.
+
+### This is a level 3 header
+
+Now comes a bullet list:
+
+* Item A
+
+* Item B with a link:
+=> https://en.wikipedia.org/wiki/Hadron_collider Hadron collider
+
+* Item C
+
+### This is a level 4 header but should still be prefixed with '###' in gemini.
+
+Now comes an ordered list:
+
+* First item
+
+* Second item
+
+* Third item with a link:
+=> https://en.wikipedia.org/wiki/Helianthus Helianthus
+
+### This is a level 5 header but should still be prefixed with '###' in gemini.
+
+Hello world.
